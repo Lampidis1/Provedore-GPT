@@ -1,2 +1,0 @@
-# Provedore-GPT
-Proveedore-TET
